@@ -3,7 +3,7 @@
  * Тест на знание таблицы умножения
  * Multiplication Table Test
  * @author Aleksandr Polochkin
- * @version 1.0
+ * @version 1.0.1
  *
  *******************************/
 
